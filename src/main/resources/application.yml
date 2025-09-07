@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: search-engine
+  elasticsearch:
+    uris: http://localhost:9200
